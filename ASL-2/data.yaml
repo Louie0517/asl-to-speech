@@ -1,0 +1,37 @@
+names:
+- A
+- B
+- C
+- D
+- E
+- F
+- G
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+- P
+- Q
+- R
+- S
+- T
+- U
+- V
+- W
+- X
+- Y
+- Z
+nc: 26
+roboflow:
+  license: Public Domain
+  project: asl-3lsdf-6qkxy
+  url: https://universe.roboflow.com/louie-fsst3/asl-3lsdf-6qkxy/dataset/2
+  version: 2
+  workspace: louie-fsst3
+train: C:\CompVision\ASL-2\train\images
+val: C:\CompVision\ASL-2\valid\images
+test: C:\CompVision\ASL-2\test\images   

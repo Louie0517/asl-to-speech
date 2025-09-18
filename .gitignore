@@ -1,0 +1,14 @@
+# Ignore training runs
+runs/
+*.pt
+*.weights
+
+# Ignore dataset
+data/
+datasets/
+*.jpg
+*.png
+
+# Ignore temp files
+__pycache__/
+*.mp3

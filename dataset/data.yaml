@@ -1,0 +1,13 @@
+train: C:/CompVision/dataset/train/images
+val: C:/CompVision/dataset/valid/images
+test: C:/CompVision/dataset/test/images
+
+nc: 27
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'Nothing', 'O', 'P', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'space']
+
+roboflow:
+  workspace: louie-fsst3
+  project: asl-classification-4jfgu
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/louie-fsst3/asl-classification-4jfgu/dataset/2
